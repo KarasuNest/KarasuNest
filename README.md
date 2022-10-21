@@ -4,7 +4,7 @@
 - I currently use this for Q/A testing for Running with Scissors on **POSTAL 4: No Regerts**, but I'm always looking for more!
 - If you'd like to hire me for Q/A on your game, you can reach me at multiple places, see below.
   - Karasu#0910 **(Discord)** 
-  
+  - @TheBonniesYT **(Twitter)**
   - snoozbackup@gmail.com **(Email)**
     - *Note: If you choose to contact me through email, please title your email correctly and clearly, otherwise I will probably overlook it.*
  
